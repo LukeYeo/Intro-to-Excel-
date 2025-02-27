@@ -12,3 +12,6 @@ This project/guide teaches me the basic uses of Excel:
 - How to visualize data
 - Familarity with the software (how to use it)
 - Presenting data properly (visually appealing and easy to understand) 
+
+Final Project Dashboard:
+![image](https://github.com/user-attachments/assets/3faa91c7-aa69-432f-af2f-df30c6450272)
